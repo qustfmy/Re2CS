@@ -1,0 +1,12 @@
+evaluation:
+  single_json_path: "/home/fmy/project/DPO-Summary/data/deepseek/python/enhanced_data_full_0_9999.json"
+  doc_a_key: "summary"
+  doc_b_key: "step5_final"
+  name_key: "func_name"
+  code_key: "code"
+  id_key: "idx"
+  gpt_model: "deepseek-r1-250528"
+  gpt_onetime_query_limit: 150
+  sufficiency_stats_dir: "outputs"
+  # 可选：自定义输出名（不带扩展名）
+  # output_file_name: "Sufficiency_summary_vs_step5final"
