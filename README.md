@@ -27,8 +27,9 @@ Re2CS/
 
 ```
 ---
-## Download and Prepare Datasets
-https://huggingface.co/datasets/qustfmy/Re2CS
+## 📝 Download and Prepare Datasets
+
+You can download the datasets from https://huggingface.co/datasets/qustfmy/Re2CS.
 
 
 ## 🚀 Quick Start
@@ -42,7 +43,7 @@ pip install -r requirements.txt
 
 ```
 
-### 2. Data Augmentation (MA-SDA)
+### 2. 📊 Data Augmentation (MA-SDA)
 
 Generate high-quality pseudo-references for your training set:
 
